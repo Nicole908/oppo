@@ -1,0 +1,22 @@
+#head {
+  width: 100%;
+  background: #d1e2f2;
+}
+
+#head .top header {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+#head .top .banner {
+  width: 1440px;
+  min-height: 660px;
+  margin: 0 auto;
+}
+
+#ad {
+  width: 1440px;
+  margin: 0 auto;
+  margin-bottom: 60px;
+  overflow: hidden;
+}

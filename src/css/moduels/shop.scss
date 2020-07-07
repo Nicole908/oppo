@@ -1,0 +1,48 @@
+@import './reset.scss';
+$content : 1200px;
+#shop{
+    overflow-x: hidden;
+    position: relative;
+    z-index: 2;
+    section{
+        width: $content;
+        height: 60px;
+        margin: 0 auto;
+        background: skyblue;
+        font-size: 18px;
+        text-align: center;
+        line-height: 60px;
+        a{
+            float: left;
+            font-size: 20px;
+            font-weight: bold;
+            margin: 0 15px;
+        }
+        li{
+            float: left;
+            padding: 0 25px;
+            background: red;
+            height: 60px;
+        }
+    }
+}
+.list{
+    height: 270px;
+    background: #ccc;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    section{
+        width: $content;
+        height: 200px;
+        margin: 0 auto;
+        padding-top: 70px;
+        background: plum;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        p{
+            margin-top: 10px;
+        }
+    }
+}

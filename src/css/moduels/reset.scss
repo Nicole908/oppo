@@ -1,0 +1,81 @@
+@charset "utf-8";
+html,body,div,h1,h2,h3,h4,h5,h6,p,ol,ul,li,dl,dd,dt,form,fieldset,legend,img,input{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 16px;
+    font-family: "微软雅黑";
+}
+h1,h2,h3,h4,h5,h6{
+    font-size: 16px;
+    font-weight: normal;
+}
+b,strong{
+    font-weight: normal;
+}
+em,i{
+    font-style: normal;
+}
+a,u{
+    text-decoration: none;
+}
+a{
+    color: #000;
+}
+ol,ul,li{
+    list-style: none;
+}
+input{
+    outline: none;
+}
+img{
+    display: block;
+    border: none;
+}
+fieldset{
+    border: none;
+}
+textarea{
+    resize: none;
+}
+.border_none{
+    border: none!important;
+}
+.bg_none{
+    background: none!important;
+}
+.float_left{
+    float: left;
+}
+.float_right{
+    float: right;
+}
+.fixed_center{
+    position: fixed;
+    left: 0;right: 0;
+    top: 0;bottom: 0;
+    margin: auto;
+}
+.abso_center{
+    position: absolute;
+    left: 0;right: 0;
+    top: 0;bottom: 0;
+    margin: auto;
+}
+.clear_fix::after{
+    content: "";
+    height: 0;
+    display: block;
+    clear: both;
+    overflow: hidden;
+    visibility: hidden;
+}
+.clear_fix{
+    zoom: 1;
+}
+.text_ellip{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

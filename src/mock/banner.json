@@ -1,0 +1,131 @@
+[{
+    "type" : "find",
+    "code" : 0,
+    "banner_list" : [
+        
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202003/202003060403265e620e1e48b98.png",
+            "imgLink" : "https://www.opposhop.cn/products/1123.html"
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202003/202003060403505e62054e6ba1d.png",
+            "imgLink" : "https://www.opposhop.cn/products/1119.html"
+            
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202003/202003060403545e62060630710.png",
+            "imgLink" : "https://www.opposhop.cn/products/487.html"
+        }
+    ]
+},{
+    "type" : "reno",
+    "code" : 0,
+    "banner_list" : [
+        
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202006/202006080306015eddeed543033.png",
+            "imgLink" : "https://www.opposhop.cn/products/1401.html"
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202006/202006080306315eddeef30da3b.png",
+            "imgLink" : "https://www.opposhop.cn/products/1516.html"
+            
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202003/202003061103555e6272c76fe23.png",
+            "imgLink" : "https://www.opposhop.cn/products/1022.html"
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202003/202003061103125e6272d87e0c6.png",
+            "imgLink" : "https://www.opposhop.cn/products/1015.html"
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202003/202003071203355e627457d4ed4.png",
+            "imgLink" : "https://www.opposhop.cn/products/1095.html"
+        },{
+            "imgUrl" : "https://dsfs.oppo.com/archives/202003/202003061103365e6272f0be193.png",
+            "imgLink" : "https://www.opposhop.cn/products/648.html"
+        }
+    ]
+},{
+    "type" : "ace",
+    "code" : 0,
+    "banner_list" : [
+        
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202004/202004130404015e9421a1ae0ef.png",
+            "imgLink" : "https://www.opposhop.cn/products/1263.html"
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202004/202004101004265e8fdaba1ce12.png",
+            "imgLink" : "https://www.opposhop.cn/products/948.html"
+            
+        }
+    ]
+},{
+    "type" : "K/A",
+    "code" : 0,
+    "banner_list" : [
+        
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202003/202003061103345e626a06f3301.png",
+            "imgLink" : "https://www.opposhop.cn/products/978.html"
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202005/202005080305255eb50569e4d4b.png",
+            "imgLink" : "https://www.opposhop.cn/products/1327.html"
+            
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202003/202003061103465e626b3e4ef3d.png",
+            "imgLink" : "https://www.opposhop.cn/products/1048.html"
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202005/202005111005195eb8b22b9e8e6.png",
+            "imgLink" : "https://www.opposhop.cn/products/1342.html"
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202003/202003061103035e626b4f13ca6.png",
+            "imgLink" : "https://www.opposhop.cn/products/1051.html"
+        },{
+            "imgUrl" : "https://dsfs.oppo.com/archives/202003/202003070503125e6364b8c7174.png",
+            "imgLink" : "https://www.opposhop.cn/products/893.html"
+        },{
+            "imgUrl" : "https://dsfs.oppo.com/archives/202003/202003061103255e626b657e8e2.png",
+            "imgLink" : "https://www.opposhop.cn/products/957.html"
+        }
+    ]
+},{
+    "type" : "hardware",
+    "code" : 0,
+    "banner_list" : [
+        
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202006/202006080206365edddf80a1b39.png",
+            "imgLink" : "https://www.opposhop.cn/products/1138.html"
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202006/202006010506385ed4ce7e8ef8b.png",
+            "imgLink" : "https://www.opposhop.cn/products/1491.html"
+            
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202006/202006040306495ed8a79d7d97c.png",
+            "imgLink" : "https://www.opposhop.cn/products/1402.html"
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202004/202004160204425e97f8fee2574.png",
+            "imgLink" : "https://www.opposhop.cn/products/1289.html"
+        },
+        {
+            "imgUrl" : "https://dsfs.oppo.com/archives/202006/202006091106575edf039d1ab4e.png",
+            "imgLink" : "https://www.opposhop.cn/products/1591.html"
+        },{
+            "imgUrl" : "https://dsfs.oppo.com/archives/202006/202006151106365ee6ee68750ab.png",
+            "imgLink" : "https://www.opposhop.cn/products/1479.html"
+        },{
+            "imgUrl" : "https://dsfs.oppo.com/archives/202006/202006040306295ed8a8f195a87.png",
+            "imgLink" : "https://hd.oppo.com/act/2018/1019peijian/index.html"
+        }
+    ]
+}]

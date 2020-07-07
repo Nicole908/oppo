@@ -1,0 +1,241 @@
+@charset "UTF-8";
+.top {
+  margin-bottom: 40px;
+}
+
+.top header {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  line-height: 100px;
+}
+
+.top header h1 {
+  font-size: 26px;
+  font-family: "微软雅黑";
+  margin-left: 50px;
+}
+
+.top header ul li {
+  float: left;
+}
+
+.top header ul li a {
+  height: 100px;
+  margin: 0 15px;
+}
+
+.top header span {
+  display: flex;
+  justify-content: space-between;
+  width: 100px;
+}
+
+.top header span i {
+  font-size: 22px;
+  font-weight: bolder;
+  margin-right: 20px;
+  margin-top: 2px;
+  position: relative;
+}
+
+.top header span i .login {
+  cursor: initial;
+  box-sizing: border-box;
+  background-color: #fff;
+  color: rgba(0, 0, 0, 0.78);
+  font-size: 14px;
+  padding: 16px;
+  margin-top: 26px;
+  min-width: 144px;
+  text-align: left;
+  position: absolute;
+  top: 50px;
+  left: -62px;
+}
+
+.top header span i .login span {
+  position: absolute;
+  content: '';
+  display: block;
+  width: 0;
+  height: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  top: -30px;
+  border: 10px solid transparent;
+  border-bottom-color: #fff;
+}
+
+.top header span i .login li {
+  width: 112px;
+  height: 20px;
+  border-bottom: 1px solid #000;
+  text-align: center;
+  line-height: 20px;
+  padding: 5px 0;
+}
+
+.top header span i .login :first-child {
+  padding-bottom: 10px;
+}
+
+.top header span i .login :last-child {
+  padding-top: 10px;
+  border: none;
+}
+
+.top .banner {
+  padding-top: 60px;
+}
+
+.top .banner .word {
+  float: left;
+  margin-top: 80px;
+}
+
+.top .banner .word h2 {
+  font-size: 70px;
+  color: #111111;
+}
+
+.top .banner .word h3 {
+  font-size: 24px;
+  color: #111111;
+  margin-top: 30px;
+}
+
+.top .banner .word p {
+  font-size: 20px;
+  color: #111111;
+  margin-top: 62px;
+}
+
+.top .banner .word .btn .more {
+  text-align: center;
+}
+
+.top .banner .word .btn .more a {
+  display: block;
+  float: left;
+  width: 160px;
+  height: 60px;
+  background: #000;
+  color: #fff;
+  line-height: 60px;
+  margin-top: 40px;
+}
+
+.top .banner .word .btn .more a:hover {
+  background: #2e3133;
+}
+
+.top .banner .word .btn p {
+  float: left;
+}
+
+.top .banner .word .btn p a {
+  width: 65px;
+  height: 25px;
+  margin-left: 30px;
+  font-size: 15px;
+  line-height: 25px;
+  border-bottom: 1px solid #000;
+}
+
+.top .banner .word .btn p a:hover {
+  color: #909ba5;
+}
+
+.top .banner img {
+  float: right;
+  width: 770px;
+  height: 480px;
+  margin-right: 100px;
+}
+
+#ad a {
+  display: block;
+  margin-top: 8px;
+  font-size: 24px;
+}
+
+#ad h3 {
+  margin-top: 3px;
+  font-size: 20px;
+}
+
+#ad .action a {
+  float: left;
+  display: block;
+  padding-bottom: 2px;
+  margin: 10px 20px 0 0;
+  font-size: 14px;
+  border-bottom: 1px solid #000;
+}
+
+#ad span {
+  float: right;
+  display: block;
+  font-size: 12px;
+  color: #046A38;
+  margin-right: 240px;
+}
+
+#ad .ad_tl {
+  float: left;
+  margin: 0 60px;
+  width: 700px;
+  overflow: hidden;
+}
+
+#ad .ad_tl img {
+  width: 840px;
+  height: 820px;
+}
+
+#ad .ad_tr {
+  float: right;
+  width: 400px;
+  margin: 0 60px;
+  overflow: hidden;
+}
+
+#ad .ad_tr img {
+  width: 440px;
+  height: 330px;
+}
+
+#ad .ad_tr .pic {
+  margin-bottom: 60px;
+}
+
+#ad .ad_tl2 {
+  float: left;
+  margin: 0 60px;
+  width: 440px;
+  overflow: hidden;
+  position: relative;
+}
+
+#ad .ad_tl2 img {
+  width: 400px;
+  height: 550px;
+}
+
+#ad .ad_tr2 {
+  float: right;
+  width: 745px;
+  margin: 0 60px;
+  overflow: hidden;
+}
+
+#ad .ad_tr2 img {
+  width: 830px;
+  height: 550px;
+}
+
+#ad .ad_tr2 .pic {
+  margin-bottom: 60px;
+}
